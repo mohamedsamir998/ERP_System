@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ERP_ProjectModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Categories">
+    <Key>
+      <PropertyRef Name="Category_Id" />
+    </Key>
+    <Property Name="Category_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Category_Name" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Category_Image" Type="varbinary(max)" />
+    <Property Name="Created_Date" Type="datetime" Nullable="false" />
+    <Property Name="Created_User_Id" Type="int" Nullable="false" />
+    <Property Name="Last_Modified_Date" Type="datetime" />
+    <Property Name="Last_Modified_User_Id" Type="int" />
+  </EntityType>
+  <EntityType Name="Customers">
+    <Key>
+      <PropertyRef Name="Customer_Id" />
+    </Key>
+    <Property Name="Customer_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Customer_Code" Type="int" Nullable="false" />
+    <Property Name="Customer_Name" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Customer_Contact" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Created_Date" Type="datetime" Nullable="false" />
+    <Property Name="Created_User_Id" Type="int" Nullable="false" />
+    <Property Name="Last_Modified_Date" Type="datetime" />
+    <Property Name="Last_Modified_User_id" Type="int" />
+  </EntityType>
+  <EntityType Name="Invoice_Details">
+    <Key>
+      <PropertyRef Name="Invoice_Details_Id" />
+    </Key>
+    <Property Name="Invoice_Details_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Invoice_Id" Type="int" />
+    <Property Name="Product_Id" Type="int" />
+    <Property Name="Quantity" Type="int" />
+    <Property Name="Unit_Price" Type="decimal" Precision="9" Scale="2" />
+    <Property Name="Sub_Total" Type="decimal" Precision="9" Scale="2" />
+    <Property Name="Created_Date" Type="datetime" Nullable="false" />
+    <Property Name="Created_User_Id" Type="int" Nullable="false" />
+    <Property Name="Last_Modified_Date" Type="datetime" />
+    <Property Name="Last_Modified_User_Id" Type="int" />
+  </EntityType>
+  <EntityType Name="Invoice_Master">
+    <Key>
+      <PropertyRef Name="Invoice_Id" />
+    </Key>
+    <Property Name="Invoice_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Customer_Id" Type="int" />
+    <Property Name="Total_Amount" Type="decimal" Precision="9" Scale="2" />
+    <Property Name="Invoice_Status" Type="bit" />
+    <Property Name="Created_Date" Type="datetime" Nullable="false" />
+    <Property Name="Created_User_Id" Type="int" Nullable="false" />
+    <Property Name="Last_Modified_Date" Type="datetime" />
+    <Property Name="Last_Modified_User_Id" Type="int" />
+  </EntityType>
+  <EntityType Name="Product_Unit">
+    <Key>
+      <PropertyRef Name="Unit_Id" />
+    </Key>
+    <Property Name="Unit_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Unit_Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Created_Date" Type="datetime" Nullable="false" />
+    <Property Name="Created_User_ID" Type="int" Nullable="false" />
+    <Property Name="Last_Modified_Date" Type="datetime" />
+    <Property Name="Last_Modified_User_ID" Type="int" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="Product_ID" />
+    </Key>
+    <Property Name="Product_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Product_Code" Type="int" Nullable="false" />
+    <Property Name="Product_Name" Type="nvarchar" MaxLength="30" />
+    <Property Name="Unit_ID" Type="int" />
+    <Property Name="Unit_In_Stock" Type="int" />
+    <Property Name="Unit_Cost" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="Unit_Price" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="Discount" Type="decimal" Precision="6" Scale="2" />
+    <Property Name="Created_Date" Type="datetime" Nullable="false" />
+    <Property Name="Created_User_ID" Type="int" Nullable="false" />
+    <Property Name="Last_Modified_Date" Type="datetime" />
+    <Property Name="Last_Modified_User_ID" Type="int" />
+  </EntityType>
+  <EntityType Name="Purchase_Details">
+    <Key>
+      <PropertyRef Name="Purchase_Product_Id" />
+    </Key>
+    <Property Name="Purchase_Product_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Product_Id" Type="int" />
+    <Property Name="Purchase_Master_Id" Type="int" />
+    <Property Name="Quantity" Type="int" />
+    <Property Name="Unit_Price" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="Sub_Total" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="Created_Date" Type="datetime" Nullable="false" />
+    <Property Name="Created_User_Id" Type="int" Nullable="false" />
+    <Property Name="Last_Modified_Date" Type="datetime" />
+    <Property Name="Last_Modified_User_Id" Type="int" />
+  </EntityType>
+  <EntityType Name="Purchase_Master">
+    <Key>
+      <PropertyRef Name="Purchase_Master_Id" />
+    </Key>
+    <Property Name="Purchase_Master_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Supplier_Id" Type="int" />
+    <Property Name="Total_Amount" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="Purchase_Status" Type="bit" />
+    <Property Name="Created_Date" Type="datetime" Nullable="false" />
+    <Property Name="Created_User_Id" Type="int" Nullable="false" />
+    <Property Name="Last_Modified_Date" Type="datetime" />
+    <Property Name="Last_Modified_User_Id" Type="int" />
+  </EntityType>
+  <EntityType Name="Suppliers">
+    <Key>
+      <PropertyRef Name="Supplier_Id" />
+    </Key>
+    <Property Name="Supplier_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Supplier_Code" Type="int" Nullable="false" />
+    <Property Name="Supplier_Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Supplier_Contact" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Supplier_Address" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="Created_date" Type="datetime" Nullable="false" />
+    <Property Name="Created_User_Id" Type="int" Nullable="false" />
+    <Property Name="Last_Modified_Date" Type="datetime" />
+    <Property Name="Last_Modified_User_Id" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="User_Id" />
+    </Key>
+    <Property Name="User_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="User_Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="User_Pass" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="User_Email" Type="varchar" MaxLength="50" />
+    <Property Name="User_FullName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Account_Type" Type="bit" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Categorie__Creat__1367E606">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Categories" Type="Self.Categories" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Categories">
+        <PropertyRef Name="Created_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Categorie__Last___145C0A3F">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Categories" Type="Self.Categories" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Categories">
+        <PropertyRef Name="Last_Modified_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Customers__Creat__29572725">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Customers" Type="Self.Customers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Customers">
+        <PropertyRef Name="Created_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Customers__Last___286302EC">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Customers" Type="Self.Customers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Customers">
+        <PropertyRef Name="Last_Modified_User_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Invoice_D__Creat__412EB0B6">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Invoice_Details" Type="Self.Invoice_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Invoice_Details">
+        <PropertyRef Name="Created_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Invoice_D__Invoi__4222D4EF">
+    <End Role="Invoice_Master" Type="Self.Invoice_Master" Multiplicity="0..1" />
+    <End Role="Invoice_Details" Type="Self.Invoice_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Invoice_Master">
+        <PropertyRef Name="Invoice_Id" />
+      </Principal>
+      <Dependent Role="Invoice_Details">
+        <PropertyRef Name="Invoice_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Invoice_D__Last___440B1D61">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Invoice_Details" Type="Self.Invoice_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Invoice_Details">
+        <PropertyRef Name="Last_Modified_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Invoice_D__Produ__4316F928">
+    <End Role="Products" Type="Self.Products" Multiplicity="0..1" />
+    <End Role="Invoice_Details" Type="Self.Invoice_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="Product_ID" />
+      </Principal>
+      <Dependent Role="Invoice_Details">
+        <PropertyRef Name="Product_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Invoice_M__Creat__3B75D760">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Invoice_Master" Type="Self.Invoice_Master" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Invoice_Master">
+        <PropertyRef Name="Created_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Invoice_M__Custo__3C69FB99">
+    <End Role="Customers" Type="Self.Customers" Multiplicity="0..1" />
+    <End Role="Invoice_Master" Type="Self.Invoice_Master" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="Customer_Id" />
+      </Principal>
+      <Dependent Role="Invoice_Master">
+        <PropertyRef Name="Customer_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Invoice_M__Last___3D5E1FD2">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Invoice_Master" Type="Self.Invoice_Master" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Invoice_Master">
+        <PropertyRef Name="Last_Modified_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Product_U__Creat__1CF15040">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Product_Unit" Type="Self.Product_Unit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Product_Unit">
+        <PropertyRef Name="Created_User_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Product_U__Last___1DE57479">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Product_Unit" Type="Self.Product_Unit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Product_Unit">
+        <PropertyRef Name="Last_Modified_User_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Products__Create__239E4DCF">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Products" Type="Self.Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="Created_User_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Products__Last_M__25869641">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Products" Type="Self.Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="Last_Modified_User_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Products__Unit_I__24927208">
+    <End Role="Product_Unit" Type="Self.Product_Unit" Multiplicity="0..1" />
+    <End Role="Products" Type="Self.Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product_Unit">
+        <PropertyRef Name="Unit_Id" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="Unit_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Purchase___Creat__2E1BDC42">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Purchase_Master" Type="Self.Purchase_Master" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Purchase_Master">
+        <PropertyRef Name="Created_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Purchase___Creat__34C8D9D1">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Purchase_Details" Type="Self.Purchase_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Purchase_Details">
+        <PropertyRef Name="Created_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Purchase___Last___30F848ED">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Purchase_Master" Type="Self.Purchase_Master" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Purchase_Master">
+        <PropertyRef Name="Last_Modified_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Purchase___Last___37A5467C">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Purchase_Details" Type="Self.Purchase_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Purchase_Details">
+        <PropertyRef Name="Last_Modified_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Purchase___Produ__35BCFE0A">
+    <End Role="Products" Type="Self.Products" Multiplicity="0..1" />
+    <End Role="Purchase_Details" Type="Self.Purchase_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="Product_ID" />
+      </Principal>
+      <Dependent Role="Purchase_Details">
+        <PropertyRef Name="Product_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Purchase___Purch__36B12243">
+    <End Role="Purchase_Master" Type="Self.Purchase_Master" Multiplicity="0..1" />
+    <End Role="Purchase_Details" Type="Self.Purchase_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Purchase_Master">
+        <PropertyRef Name="Purchase_Master_Id" />
+      </Principal>
+      <Dependent Role="Purchase_Details">
+        <PropertyRef Name="Purchase_Master_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Purchase___Suppl__2F10007B">
+    <End Role="Suppliers" Type="Self.Suppliers" Multiplicity="0..1" />
+    <End Role="Purchase_Master" Type="Self.Purchase_Master" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Suppliers">
+        <PropertyRef Name="Supplier_Id" />
+      </Principal>
+      <Dependent Role="Purchase_Master">
+        <PropertyRef Name="Supplier_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Purchase___Suppl__300424B4">
+    <End Role="Suppliers" Type="Self.Suppliers" Multiplicity="0..1" />
+    <End Role="Purchase_Master" Type="Self.Purchase_Master" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Suppliers">
+        <PropertyRef Name="Supplier_Id" />
+      </Principal>
+      <Dependent Role="Purchase_Master">
+        <PropertyRef Name="Supplier_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Suppliers__Creat__1920BF5C">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Suppliers" Type="Self.Suppliers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Suppliers">
+        <PropertyRef Name="Created_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Suppliers__Last___182C9B23">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Suppliers" Type="Self.Suppliers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_Id" />
+      </Principal>
+      <Dependent Role="Suppliers">
+        <PropertyRef Name="Last_Modified_User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ERP_ProjectModelStoreContainer">
+    <EntitySet Name="Categories" EntityType="Self.Categories" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Customers" EntityType="Self.Customers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Invoice_Details" EntityType="Self.Invoice_Details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Invoice_Master" EntityType="Self.Invoice_Master" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product_Unit" EntityType="Self.Product_Unit" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Products" EntityType="Self.Products" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Purchase_Details" EntityType="Self.Purchase_Details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Purchase_Master" EntityType="Self.Purchase_Master" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Suppliers" EntityType="Self.Suppliers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Categorie__Creat__1367E606" Association="Self.FK__Categorie__Creat__1367E606">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Categories" EntitySet="Categories" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Categorie__Last___145C0A3F" Association="Self.FK__Categorie__Last___145C0A3F">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Categories" EntitySet="Categories" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Customers__Creat__29572725" Association="Self.FK__Customers__Creat__29572725">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Customers" EntitySet="Customers" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Customers__Last___286302EC" Association="Self.FK__Customers__Last___286302EC">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Customers" EntitySet="Customers" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Invoice_D__Creat__412EB0B6" Association="Self.FK__Invoice_D__Creat__412EB0B6">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Invoice_Details" EntitySet="Invoice_Details" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Invoice_D__Invoi__4222D4EF" Association="Self.FK__Invoice_D__Invoi__4222D4EF">
+      <End Role="Invoice_Master" EntitySet="Invoice_Master" />
+      <End Role="Invoice_Details" EntitySet="Invoice_Details" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Invoice_D__Last___440B1D61" Association="Self.FK__Invoice_D__Last___440B1D61">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Invoice_Details" EntitySet="Invoice_Details" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Invoice_D__Produ__4316F928" Association="Self.FK__Invoice_D__Produ__4316F928">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="Invoice_Details" EntitySet="Invoice_Details" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Invoice_M__Creat__3B75D760" Association="Self.FK__Invoice_M__Creat__3B75D760">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Invoice_Master" EntitySet="Invoice_Master" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Invoice_M__Custo__3C69FB99" Association="Self.FK__Invoice_M__Custo__3C69FB99">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Invoice_Master" EntitySet="Invoice_Master" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Invoice_M__Last___3D5E1FD2" Association="Self.FK__Invoice_M__Last___3D5E1FD2">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Invoice_Master" EntitySet="Invoice_Master" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Product_U__Creat__1CF15040" Association="Self.FK__Product_U__Creat__1CF15040">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Product_Unit" EntitySet="Product_Unit" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Product_U__Last___1DE57479" Association="Self.FK__Product_U__Last___1DE57479">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Product_Unit" EntitySet="Product_Unit" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Products__Create__239E4DCF" Association="Self.FK__Products__Create__239E4DCF">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Products__Last_M__25869641" Association="Self.FK__Products__Last_M__25869641">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Products__Unit_I__24927208" Association="Self.FK__Products__Unit_I__24927208">
+      <End Role="Product_Unit" EntitySet="Product_Unit" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Purchase___Creat__2E1BDC42" Association="Self.FK__Purchase___Creat__2E1BDC42">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Purchase_Master" EntitySet="Purchase_Master" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Purchase___Creat__34C8D9D1" Association="Self.FK__Purchase___Creat__34C8D9D1">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Purchase_Details" EntitySet="Purchase_Details" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Purchase___Last___30F848ED" Association="Self.FK__Purchase___Last___30F848ED">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Purchase_Master" EntitySet="Purchase_Master" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Purchase___Last___37A5467C" Association="Self.FK__Purchase___Last___37A5467C">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Purchase_Details" EntitySet="Purchase_Details" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Purchase___Produ__35BCFE0A" Association="Self.FK__Purchase___Produ__35BCFE0A">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="Purchase_Details" EntitySet="Purchase_Details" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Purchase___Purch__36B12243" Association="Self.FK__Purchase___Purch__36B12243">
+      <End Role="Purchase_Master" EntitySet="Purchase_Master" />
+      <End Role="Purchase_Details" EntitySet="Purchase_Details" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Purchase___Suppl__2F10007B" Association="Self.FK__Purchase___Suppl__2F10007B">
+      <End Role="Suppliers" EntitySet="Suppliers" />
+      <End Role="Purchase_Master" EntitySet="Purchase_Master" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Purchase___Suppl__300424B4" Association="Self.FK__Purchase___Suppl__300424B4">
+      <End Role="Suppliers" EntitySet="Suppliers" />
+      <End Role="Purchase_Master" EntitySet="Purchase_Master" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Suppliers__Creat__1920BF5C" Association="Self.FK__Suppliers__Creat__1920BF5C">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Suppliers" EntitySet="Suppliers" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Suppliers__Last___182C9B23" Association="Self.FK__Suppliers__Last___182C9B23">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Suppliers" EntitySet="Suppliers" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

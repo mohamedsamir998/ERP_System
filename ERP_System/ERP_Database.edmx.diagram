@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4a30de44d28a4c6aa035447ad1acc2d7" Name="Diagram1">
+        <EntityTypeShape EntityType="ERP_ProjectModel.Category" Width="1.5" PointX="3" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_ProjectModel.Customer" Width="1.5" PointX="3" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_ProjectModel.Invoice_Details" Width="1.5" PointX="10.5" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_ProjectModel.Invoice_Master" Width="1.5" PointX="5.25" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_ProjectModel.Product_Unit" Width="1.5" PointX="3" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_ProjectModel.Product" Width="1.5" PointX="8.25" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_ProjectModel.Purchase_Details" Width="1.5" PointX="10.5" PointY="15.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_ProjectModel.Purchase_Master" Width="1.5" PointX="5.25" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_ProjectModel.Supplier" Width="1.5" PointX="3" PointY="20.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_ProjectModel.User" Width="1.5" PointX="0.75" PointY="9.5" IsExpanded="true" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Categorie__Creat__1367E606" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Categorie__Last___145C0A3F" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Customers__Creat__29572725" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Customers__Last___286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Invoice_M__Custo__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Invoice_D__Creat__412EB0B6" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Invoice_D__Invoi__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Invoice_D__Last___440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Invoice_D__Produ__4316F928" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Invoice_M__Creat__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Invoice_M__Last___3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Product_U__Creat__1CF15040" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Product_U__Last___1DE57479" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Products__Unit_I__24927208" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Products__Create__239E4DCF" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Products__Last_M__25869641" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Purchase___Produ__35BCFE0A" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Purchase___Creat__34C8D9D1" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Purchase___Last___37A5467C" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Purchase___Purch__36B12243" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Purchase___Creat__2E1BDC42" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Purchase___Last___30F848ED" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Purchase___Suppl__2F10007B" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Purchase___Suppl__300424B4" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Suppliers__Creat__1920BF5C" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_ProjectModel.FK__Suppliers__Last___182C9B23" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="ERP_ProjectModel.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,142 @@
+﻿body {
+    width: 100% !important;
+}
+
+
+.navbar {
+    width: 100% !important;
+    height: 60px;
+    margin-bottom: 3rem;
+}
+
+.form-inline {
+    display: flex;
+    align-content: end;
+    padding-left: 1rem;
+}
+
+.btn {
+    background-color: #000033;
+    color: white;
+}
+
+.btn:hover {
+    background-color: white;
+    color: #000033;
+}
+
+#PageNameLabel {
+    color: #000033;
+    font-size: 26px;
+    padding-right: 1rem;
+    font-weight: bold;
+}
+
+.main-form {
+    border: 2px solid #000033;
+    border-radius: 20px;
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+    max-width: 97%;
+}
+
+.control {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#GeneralInfoLabel {
+    font-size: 20px;
+    color: #000033;
+    font-weight: bold;
+}
+.UnitId {
+    padding-right: 6rem;
+}
+.ProductCode {
+    padding-right: 2.3rem;
+}
+
+.productName {
+    padding-right: 1.9rem;
+}
+
+.CreatedOn {
+    padding-right: 3.4rem;
+}
+
+.CreatedBy {
+    padding-right: 3.6rem;
+}
+
+.LastModifiedOn {
+    padding-right: 1.1rem;
+}
+
+.LastModifiedBy {
+    padding-right: 1.1rem;
+}
+
+.unitCost {
+    padding-right: 4.7rem;
+}
+.unitId{
+    padding-right:6.3rem;
+}
+.unitPrice {
+    padding-right: 4.45rem;
+}
+.stock {
+    padding-right: 3.1rem;
+}
+.discount {
+    padding-right: 4.9rem;
+}
+
+.content {
+    width: 100%;
+    min-height: 100vh;
+    transition: all 0.3s;
+}
+
+@media (maz-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+    }
+
+        #sidebar.active {
+            margin-left: 0px;
+        }
+
+    #sidebarCollapse span {
+        display: none;
+    }
+}
+
+.sidebar{
+    min-height: 100vh;
+}
+
+.add {
+    border: 1px solid #000033;
+    border-radius: 4px;
+    background-color: #7bafc9;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+}
+.unit_id {
+    padding-right: 6rem;
+}
+.unit_name {
+    padding-right: 3.85rem;
+}
+.created_on {
+    padding-right: 3.5rem;
+}
+.created_by {
+    padding-right: 3.45rem
+}
+.last_modified_by, .last_modified_on{
+    padding-right:0.9rem;
+}

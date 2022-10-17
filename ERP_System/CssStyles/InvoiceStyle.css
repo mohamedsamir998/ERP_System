@@ -1,0 +1,163 @@
+﻿body {
+    width: 100% !important;
+}
+
+.search {
+    background: url(find.png) no-repeat;
+    padding-left: 18px;
+    border: 1px solid #ccc;
+}
+
+.navbar {
+    width: 100% !important;
+    height: 60px;
+    margin-bottom: 3rem;
+}
+
+.form-inline {
+    display: flex;
+    align-content: end;
+    padding-left: 1rem;
+}
+
+.btn, .Clicked {
+    background-color: #000033;
+    color: white;
+    height: 35px;
+}
+
+    .btn:hover {
+        background-color: white;
+        color: #000033;
+    }
+
+#PageNameLabel {
+    color: #000033;
+    font-size: 26px;
+    padding-right: 1rem;
+    font-weight: bold;
+}
+
+.main-form, .sub-form {
+    border: 2px solid #000033;
+    border-radius: 20px;
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+    max-width: 97%;
+}
+
+.control {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#GeneralInfoLabel {
+    font-size: 22px;
+    color: #000033;
+    font-weight: bold;
+}
+
+#InvoiceIDLabel{
+    padding-right:2rem;
+}
+#CustomerIdLabel{
+    padding-right: 2.15rem;
+}
+#TotalAmountLabel{
+    padding-right:1.6rem;
+}
+#CreatedByLabel, #CreatedDateLabel {
+    padding-right: 2.7rem;
+}
+#LastModifiedByLabel, #LastModifiedOnLabel {
+    padding-right: 2.5rem;
+}
+#InvoiceStatusLabel{
+    padding-right: 5.2rem;
+}
+
+#content {
+    width: 100%;
+    padding: 20px;
+    min-height: 100vh;
+    transition: all 0.3s;
+}
+
+@media (maz-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+    }
+
+        #sidebar.active {
+            margin-left: 0px;
+        }
+
+    #sidebarCollapse span {
+        display: none;
+    }
+}
+#sidebar{
+    min-height:100vh;
+}
+
+tr {
+    color: White;
+    font-weight: bold;
+    font-size:12px;
+}
+th{
+    padding-right: 1.5rem;
+}
+td{
+    font-size: 11px;
+}
+
+#InViewInsertBtn, #InViewClearFieldsBtn {
+    font-size: 18px;
+}
+input{
+    max-width:200px;
+}
+.insertTable {
+    border: 1px solid #000033;
+    border-radius: 4px;
+    background-color: #7bafc9;
+    font-size:18px;
+}
+
+#ProductIdLabel, #QuantityLabel, #UnitPriceLabel, #SubTotalLabel {
+    font-size: 20px;
+}
+
+#InfoCreatedByLabel, #infoCreatedOnLabel, #InViewLastModifiedByLabel, #InViewLastModifiedOnLabel{
+    color:#000033;
+    font-size: 20px;
+}
+
+#ProductIdLabel{
+    padding-right:1rem;
+}
+#UnitPriceLabel{
+    padding-right:1.5rem;
+}
+#InfoCreatedByLabel, #infoCreatedOnLabel {
+    padding-right: 0.75rem;
+}
+#QuantityLabel {
+    padding-right: 1.8rem;
+}
+#SubTotalLabel{
+    padding-right:1.61rem;
+}
+#InViewLastModifiedByLabel, #InViewLastModifiedOnLabel {
+    padding-right: 0.6rem;
+}
+
+#InvoiceDetailsTab {
+    font-size: 18px;
+}
+#InvoiceDetailsInfoTab {
+    margin-bottom: 0.5rem;
+    font-size: 18px;
+}

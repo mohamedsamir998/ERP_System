@@ -1,0 +1,101 @@
+﻿body {
+    width: 100% !important;
+}
+.search {
+    background: url(find.png) no-repeat;
+    padding-left: 18px;
+    border: 1px solid #ccc;
+}
+
+.navbar {
+    width: 100% !important;
+    height: 60px;
+    margin-bottom: 3rem;
+}
+
+.form-inline{
+    display:flex;
+    align-content:end;
+    padding-left: 1rem;
+}
+.btn{
+    background-color:#000033;
+    color:white;
+    height: 35px;
+}
+.btn:hover {
+    background-color: white;
+    color: #000033;
+}
+
+#PageNameLabel{
+    color:#000033;
+    font-size:26px;
+    padding-right:1rem;
+    font-weight:bold;
+}
+
+.main-form, .sub-form {
+    border: 2px solid #000033;
+    border-radius: 20px;
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+    max-width: 97%;
+}
+
+.control{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+#GeneralInfoLabel {
+    font-size: 22px;
+    color: #000033;
+    font-weight: bold;
+}
+
+#CustomerCodeLabel{
+    padding-right:1rem;
+}
+
+#StatusLabel{
+    padding-right:5.5rem;
+}
+#CustomerNameLabel{
+    padding-right:0.6rem;
+}
+
+#CreatedOnLabel, #CreatedByLabel{
+    padding-right: 3.1rem;
+}
+
+#LastModifiedOnLabel, #LastModifiedByLabel{
+    padding-right:0.5rem;
+}
+#CustomerContactLabel{
+    padding-right:1.1rem;
+}
+#content {
+    width: 100%;
+    padding: 20px;
+    min-height: 100vh;
+    transition: all 0.3s;
+}
+
+@media (maz-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+    }
+
+        #sidebar.active {
+            margin-left: 0px;
+        }
+
+    #sidebarCollapse span {
+        display: none;
+    }
+}
+input{
+    max-width:190px;
+}

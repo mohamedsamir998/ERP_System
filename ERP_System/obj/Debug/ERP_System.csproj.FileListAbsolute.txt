@@ -1,0 +1,735 @@
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\ERP_System.dll.config
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\ERP_System.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\ERP_System.pdb
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\csc.exe
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\csc.exe.config
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\csc.rsp
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\csi.exe
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\csi.exe.config
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\csi.rsp
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\Microsoft.Managed.Core.targets
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.AppContext.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Collections.Immutable.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Console.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Globalization.Calendars.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.IO.Compression.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.IO.FileSystem.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Net.Http.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Net.Sockets.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Reflection.Metadata.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.ValueTuple.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Xml.XmlDocument.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Xml.XPath.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\vbc.exe
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\vbc.exe.config
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\vbc.rsp
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe.config
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\Antlr3.Runtime.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\AspNet.ScriptManager.bootstrap.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\AspNet.ScriptManager.jQuery.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\Microsoft.ScriptManager.WebForms.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\Microsoft.Web.Infrastructure.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\Newtonsoft.Json.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\System.Web.Optimization.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\WebGrease.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\System.Web.Optimization.xml
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\Newtonsoft.Json.xml
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\Antlr3.Runtime.pdb
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\obj\Debug\ERP_System.csprojAssemblyReference.cache
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CoreCompileInputs.cache
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CopyComplete
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\obj\Debug\ERP_System.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\obj\Debug\ERP_System.pdb
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\EntityFramework.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\EntityFramework.SqlServer.dll
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\EntityFramework.xml
+F:\2B\ERP_System_Project\ERP_Project\Erp-System\ERP_System\ERP_System\bin\EntityFramework.SqlServer.xml
+D:\m\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll.config
+D:\m\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\ERP_System.pdb
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe.config
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.rsp
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe.config
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.rsp
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Managed.Core.targets
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.AppContext.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Collections.Immutable.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Console.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Globalization.Calendars.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.IO.Compression.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.IO.FileSystem.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Net.Http.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Net.Sockets.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Reflection.Metadata.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.ValueTuple.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Xml.XmlDocument.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Xml.XPath.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe.config
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.rsp
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe
+D:\m\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe.config
+D:\m\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.bootstrap.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.jQuery.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.WebForms.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\Microsoft.Web.Infrastructure.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\WebGrease.dll
+D:\m\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.xml
+D:\m\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.xml
+D:\m\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.xml
+D:\m\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.xml
+D:\m\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.pdb
+D:\m\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\m\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\m\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csprojAssemblyReference.cache
+D:\m\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CoreCompileInputs.cache
+D:\m\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CopyComplete
+D:\m\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.dll
+D:\m\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.pdb
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll.config
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\ERP_System.pdb
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe.config
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.rsp
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe.config
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.rsp
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Managed.Core.targets
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.AppContext.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Collections.Immutable.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Console.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Globalization.Calendars.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.IO.Compression.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.IO.FileSystem.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Net.Http.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Net.Sockets.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Reflection.Metadata.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.ValueTuple.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Xml.XmlDocument.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Xml.XPath.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe.config
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.rsp
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe.config
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.bootstrap.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.jQuery.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.WebForms.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\Microsoft.Web.Infrastructure.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\WebGrease.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.xml
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.xml
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.xml
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.xml
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.pdb
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\m1\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\m1\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CoreCompileInputs.cache
+D:\m1\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CopyComplete
+D:\m1\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.dll
+D:\m1\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.pdb
+D:\m1\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csprojAssemblyReference.cache
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll.config
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\ERP_System.pdb
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe.config
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.rsp
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe.config
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.rsp
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Managed.Core.targets
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Buffers.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Collections.Immutable.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Memory.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Numerics.Vectors.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Reflection.Metadata.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe.config
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.rsp
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe.config
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.bootstrap.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.jQuery.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.WebForms.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.Web.Infrastructure.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\WebGrease.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.xml
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.xml
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.xml
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.xml
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.pdb
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CoreCompileInputs.cache
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CopyComplete
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.dll
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.pdb
+F:\2B\ERP_System_Project\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.AssemblyReference.cache
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll.config
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\ERP_System.pdb
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\WebGrease.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.xml
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.xml
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.xml
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.xml
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.pdb
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.AssemblyReference.cache
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CoreCompileInputs.cache
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CopyComplete
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.dll
+C:\Users\HIGH TECH™\erp-project\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.pdb
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll.config
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\ERP_System.pdb
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe.config
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.rsp
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe.config
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.rsp
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Buffers.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Memory.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe.config
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.rsp
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\WebGrease.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.xml
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.xml
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.xml
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.xml
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.pdb
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.AssemblyReference.cache
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CoreCompileInputs.cache
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CopyComplete
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.dll
+C:\Users\HIGH TECH™\erp_proj\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.pdb
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll.config
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\ERP_System.pdb
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\WebGrease.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.xml
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.xml
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.xml
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.xml
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.pdb
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.AssemblyReference.cache
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CoreCompileInputs.cache
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CopyComplete
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.pdb
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe.config
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.rsp
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe.config
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.rsp
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Buffers.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Memory.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe.config
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.rsp
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe
+C:\Users\HIGH TECH™\erp3\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe.config
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll.config
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\ERP_System.pdb
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe.config
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.rsp
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe.config
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.rsp
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Managed.Core.targets
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Buffers.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Collections.Immutable.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Memory.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Numerics.Vectors.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Reflection.Metadata.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe.config
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.rsp
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe.config
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.bootstrap.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.jQuery.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.WebForms.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\Microsoft.Web.Infrastructure.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\WebGrease.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.xml
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.xml
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.xml
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.xml
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.pdb
+F:\2B\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\2B\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CoreCompileInputs.cache
+F:\2B\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CopyComplete
+F:\2B\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.dll
+F:\2B\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.pdb
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll.config
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\ERP_System.pdb
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe.config
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.rsp
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe.config
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.rsp
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Buffers.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Memory.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Numerics.Vectors.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe.config
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.rsp
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.jQuery.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\WebGrease.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.xml
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.xml
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.xml
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.xml
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.pdb
+D:\Project\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Project\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.AssemblyReference.cache
+D:\Project\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CoreCompileInputs.cache
+D:\Project\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CopyComplete
+D:\Project\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.dll
+D:\Project\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.pdb
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll.config
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\ERP_System.pdb
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe.config
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.rsp
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe.config
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.rsp
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Buffers.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Memory.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe.config
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.rsp
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\WebGrease.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.xml
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.xml
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.xml
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.xml
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.pdb
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.AssemblyReference.cache
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CoreCompileInputs.cache
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CopyComplete
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.dll
+C:\Users\HIGH TECH™\erp4\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.pdb
+F:\2B\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.AssemblyReference.cache
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll.config
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\ERP_System.pdb
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe.config
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.rsp
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe.config
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.rsp
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Buffers.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Memory.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe.config
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.rsp
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\WebGrease.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.xml
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.xml
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.xml
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.xml
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.pdb
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.AssemblyReference.cache
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CoreCompileInputs.cache
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CopyComplete
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.dll
+C:\Users\HIGH TECH™\erp5\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.pdb
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll.config
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\ERP_System.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\ERP_System.pdb
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.exe.config
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\csc.rsp
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.exe.config
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\csi.rsp
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.Managed.Core.targets
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Buffers.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Collections.Immutable.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Memory.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Numerics.Vectors.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Reflection.Metadata.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.exe.config
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\vbc.rsp
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\roslyn\VBCSCompiler.exe.config
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.bootstrap.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\AspNet.ScriptManager.jQuery.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\Microsoft.ScriptManager.WebForms.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\Microsoft.Web.Infrastructure.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\WebGrease.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.xml
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\EntityFramework.SqlServer.xml
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\Newtonsoft.Json.xml
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\System.Web.Optimization.xml
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\Antlr3.Runtime.pdb
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csprojAssemblyReference.cache
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CoreCompileInputs.cache
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.csproj.CopyComplete
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.dll
+E:\FinalProject\ERP_Project\ERP_System\ERP_System\obj\Debug\ERP_System.pdb
